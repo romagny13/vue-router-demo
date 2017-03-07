@@ -1,4 +1,4 @@
-# vue-app
+# VueRouter demo
 
 > A Vue.js project
 
